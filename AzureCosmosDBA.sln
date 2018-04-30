@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosDBA", "AzureCosm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosDBA.Tests", "AzureCosmosDBA.Tests\AzureCosmosDBA.Tests.csproj", "{848656AB-20C8-48CA-81C2-31A4355EE1C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosDBA.Models", "AzureCosmosDBA.Models\AzureCosmosDBA.Models.csproj", "{9FB73090-8E99-44BF-B1F9-FC90A5D48D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosDBA.Data", "AzureCosmosDBA.Data\AzureCosmosDBA.Data.csproj", "{4B3202EA-546C-4C94-8FC3-E1B96A4AE03D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{848656AB-20C8-48CA-81C2-31A4355EE1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{848656AB-20C8-48CA-81C2-31A4355EE1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{848656AB-20C8-48CA-81C2-31A4355EE1C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB73090-8E99-44BF-B1F9-FC90A5D48D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB73090-8E99-44BF-B1F9-FC90A5D48D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB73090-8E99-44BF-B1F9-FC90A5D48D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB73090-8E99-44BF-B1F9-FC90A5D48D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B3202EA-546C-4C94-8FC3-E1B96A4AE03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3202EA-546C-4C94-8FC3-E1B96A4AE03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3202EA-546C-4C94-8FC3-E1B96A4AE03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3202EA-546C-4C94-8FC3-E1B96A4AE03D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
